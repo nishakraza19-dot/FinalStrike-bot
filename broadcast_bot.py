@@ -6,8 +6,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
 # ===================== CONFIG =====================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = 123456789  # Apna Telegram ID
+BOT_TOKEN = "8705798699:AAHKM-G2r3aVrZ-hgen2O94IVtyNnn4mYNE"
+ADMIN_ID = 1003577393048  # Apna Telegram ID
 
 DATA_FILE = "users.json"
 logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
